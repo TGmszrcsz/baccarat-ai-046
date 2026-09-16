@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：效果验证
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 045 篇 - 百家乐Ai预测分析工具：展示命中率时同时报告样本数量](https://github.com/TGmszrcsz/baccarat-ai-045) ｜ [下一篇：第 047 篇 - 百家乐Ai预测分析工具：成功截图合集为什么不能替代完整测试](https://github.com/TGmszrcsz/baccarat-ai-047)
+
+<!-- article-chain:end -->
+
 测试几十种规则，只公布其中最好的一项。本篇围绕“多次尝试后挑最好结果有什么偏差”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、从具体场景进入问题
